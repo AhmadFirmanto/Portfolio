@@ -1,0 +1,5 @@
+# SQL
+
+## Biquery public data
+
+Query menggunakan thelook_ecommerce 

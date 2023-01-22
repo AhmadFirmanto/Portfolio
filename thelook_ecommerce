@@ -1,8 +1,0 @@
-SELECT
-country,
-COUNT(order_id) AS jumlah_order
-FROM `bigquery-public-data.thelook_ecommerce.orders`
-JOIN `bigquery-public-data.thelook_ecommerce.users`
-ON `bigquery-public-data.thelook_ecommerce.orders`.user_id = `bigquery-public-data.thelook_ecommerce.users`.id
-GROUP BY country
-ORDER BY COUNT(order_id) DESC

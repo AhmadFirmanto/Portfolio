@@ -16,4 +16,5 @@
 ## Pyton bigquery-public-data.thelook_ecommerce
 * menggunakan data dari query bigquery-public-data.thelook_ecommerce: mengambil kolom created_at, status, sale_price, num_of_item, gender, category, country / [output query save ke format .csv](https://drive.google.com/file/d/1Kh25KYPkE7i7J3cDDuEHGg6EHu4F39sj/view?usp=sharing)
 * clining data apakah ada: missing value, data duplikat dan typo
-* setelah di cek tidak ada mising value, tidak ada data duplikat dan tidak ada yang typo
+* setelah di cek tidak ada mising value, tidak ada data duplikat dan tidak ada yang typo, hanya merubah type data tanggal
+* file pyton Pyton [bigquery-public-data.thelook_ecommerce](

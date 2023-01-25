@@ -19,4 +19,4 @@
 * clining data apakah ada: missing value, data duplikat dan typo
 * setelah di cek tidak ada mising value, tidak ada data duplikat dan tidak ada yang typo, hanya merubah type data tanggal
 * file pyton Pyton [bigquery-public-data.thelook_ecommerce](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/fiktif_pyton_visual.ipynb)
-[![image](https://user-images.githubusercontent.com/122749604/213897227-f69b1ca0-3ca3-4505-9bfe-77222323ff4e.png)]
+[![image](https://user-images.githubusercontent.com/122749604/213897227-f69b1ca0-3ca3-4505-9bfe-77222323ff4e.png)](https://colab.research.google.com/drive/18EKBquVk-DmyIXAMa9xKfVu48PfMkkSw?usp=sharing)

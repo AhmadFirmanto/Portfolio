@@ -13,4 +13,5 @@
   - Dari data penjualan game termahal adalah PlayerUnknown's Battlegrounds 
 * file pyton [game-sale](https://github.com/AhmadFirmanto/Portfolio/blob/main/sales_games.ipynb) [![image](https://user-images.githubusercontent.com/122749604/213897227-f69b1ca0-3ca3-4505-9bfe-77222323ff4e.png)](https://colab.research.google.com/drive/1BYkHfYRX-cTWyPoyNGsPO6_BBnLuA1Gl?usp=sharing)
 
-## Pyton 
+## Pyton bigquery-public-data.thelook_ecommerce
+* menggunakan data dari query bigquery-public-data.thelook_ecommerce: mengambil kolom created_at, status, sale_price, num_of_item, gender, category, country

@@ -24,4 +24,4 @@
 ## Pyton Statistik (uji T)
 * uji normalitas
 * uji homogen
-* uij T
+* [uij T](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/t_stat.ipynb)

@@ -21,7 +21,7 @@
 * file pyton Pyton [bigquery-public-data.thelook_ecommerce](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/fiktif_pyton_visual.ipynb)
 [![image](https://user-images.githubusercontent.com/122749604/213897227-f69b1ca0-3ca3-4505-9bfe-77222323ff4e.png)](https://colab.research.google.com/drive/18EKBquVk-DmyIXAMa9xKfVu48PfMkkSw?usp=sharing)
 
-## Pyton Statistik-T
+## Pyton uji-t
 * uji normalitas
 * uji homogen
 * [uij T](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/t_stat.ipynb)

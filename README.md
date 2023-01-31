@@ -28,6 +28,6 @@
 [![image](https://user-images.githubusercontent.com/122749604/213897227-f69b1ca0-3ca3-4505-9bfe-77222323ff4e.png)](https://colab.research.google.com/drive/1SCIKYEluA-nBGb6oZUoYSaH_Qk0VzjYe?usp=sharing)
 
 ## Pyton ANOVA
-* dengan menggunakan tiga grup data yang sejenis
+* dengan menggunakan tiga jenis grup data 
 * [anova](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/anova.ipynb)
 [![image](https://user-images.githubusercontent.com/122749604/213897227-f69b1ca0-3ca3-4505-9bfe-77222323ff4e.png)](https://colab.research.google.com/drive/1GXCrMbdZzF8uK-lCtybetGfApsRI8jHS?usp=sharing)

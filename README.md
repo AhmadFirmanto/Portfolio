@@ -24,4 +24,4 @@
 ## Pyton - split
 * data dari kaggle
 * untuk menjumlahkan nilai item dari kolom yang jumlahnya lebih dari satu
-* split
+* [split](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/split.ipynb)

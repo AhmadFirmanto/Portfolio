@@ -25,3 +25,4 @@
 * data dari kaggle
 * untuk menjumlahkan nilai item dari kolom yang jumlahnya lebih dari satu
 * [split](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/split.ipynb)
+(https://colab.research.google.com/drive/1GYIB8hfudmUFT2tecj3mNm8vqVCt6GTt?usp=sharing)

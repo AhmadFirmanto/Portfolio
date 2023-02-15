@@ -1,7 +1,7 @@
 # Portfolio
 
 ## pyton-tabel
-* membuat table
+* [membuat table](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/tabel.ipynb)
 ## Pyton game_sales 
 * Studi kasus dari revou mini corse
 * Data [game_sales](https://drive.google.com/file/d/1KJNWrgby_LDX3RsTFKGHrSBAfnb8iKeL/view?usp=sharing). 

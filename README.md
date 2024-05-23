@@ -28,3 +28,5 @@
 * menjumlahkan nilai item dari kolom yang jumlahnya lebih dari satu
 * [split](https://github.com/AhmadFirmanto/Portfolio-pyton/blob/main/split.ipynb)
 [![image](https://user-images.githubusercontent.com/122749604/216743475-5f3244c0-3a0e-48c1-95c9-a5caa0912cab.png)](https://colab.research.google.com/drive/1GYIB8hfudmUFT2tecj3mNm8vqVCt6GTt?usp=sharing)
+
+.
